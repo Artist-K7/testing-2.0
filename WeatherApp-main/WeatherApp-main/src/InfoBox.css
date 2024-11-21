@@ -1,0 +1,21 @@
+.InfoBox {
+  text-align: center;
+}
+.cardContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+/*   background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuRjcEFumeRKP6KOoRsVTqfZlBjFpEa72ME5sI-LGvcORgzz4ErXmfM1PuxBstt8fxTVk&usqp=CAU"); */
+  background:url("https://www.veeforu.com/wp-content/uploads/2022/10/Blue-pastel-gradient-background-free-download.-1024x576.jpg");
+  background-size: cover;
+}
+
+.set {
+  display: flex;
+  justify-content: center;
+}
+.cityname {
+  margin-top: -4px;
+}
